@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Ruby Rose",
+        "image": "https://vignette.wikia.nocookie.net/rwbytest/images/3/34/Ruby_Rose_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20160624160005"
+    },
+    {
+        "id": 2,
+        "name": "Weiss Schnee",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/b/b0/Weiss_Schnee_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071936"
+    },
+
+    {
+        "id": 3,
+        "name": "Blake Belladonna",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/3/34/Blake_Belladonna_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071936"
+    },
+
+    {
+        "id": 4,
+        "name": "Yang Xiaolong",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/0/0c/Yang_emblem_trans.png/revision/latest/scale-to-width-down/240?cb=20140810194747"
+    },
+
+    {
+        "id": 5,
+        "name": "Jaune Arc",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/e/ef/Jaune_Arc_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071944"
+    },
+
+    {
+        "id": 6,
+        "name": "Nora Valkyrie",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/7/79/Nora_Valkyrie_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071944"
+    },
+
+    {
+        "id": 7,
+        "name": "Lie Ren ",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/0/08/Lie_Ren_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071945"
+    },
+
+    {
+        "id": 8,
+        "name": "Pyrrha Nikos",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/1/17/Pyrrha_Nikos_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071945"
+    },
+
+    {
+        "id": 9,
+        "name": "Oscar Pine",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/5/5a/Oscar_emblem.svg/revision/latest/scale-to-width-down/240?cb=20180804054604"
+    },
+
+    {
+        "id": 10,
+        "name": "Qrow Branwen",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/7/74/Qrow_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150725213904"
+    },
+
+    {
+        "id": 11,
+        "name": "Roman Torchwick",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/9/9c/Roman_Torchwick_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071938"
+    },
+
+    {
+        "id": 12,
+        "name": "Cinder Fall",
+        "image": "https://vignette.wikia.nocookie.net/rwby/images/e/e2/Cinder_Fall_Emblem.svg/revision/latest/scale-to-width-down/240?cb=20150103071937"
+    }
+]

@@ -1,0 +1,38 @@
+#header {
+    background-color: firebrick;
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#header-flex {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row nowrap;
+}
+
+.header-flex-item{
+    color: white;
+    margin: 15px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'RWBY Style';
+   
+}
+
+#header-title{
+    font-size: 56px;
+}
+
+#header-main-text{
+    font-size: 44px;
+}
+
+#header-score{
+    font-size: 44px;
+}
+
+@font-face {
+    font-family: 'RWBY Style';
+    src: url('../../rwby-style/rwby_style.ttf');
+}

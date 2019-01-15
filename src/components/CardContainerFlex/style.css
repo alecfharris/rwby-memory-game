@@ -1,0 +1,11 @@
+.card-container-flex {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-rows: auto auto auto;
+}
