@@ -1,8 +1,8 @@
 #header {
     background-color: firebrick;
     display: block;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 
 #header-flex {
@@ -16,8 +16,7 @@
     margin: 15px;
     align-items: center;
     justify-content: center;
-    font-family: 'RWBY Style';
-   
+    font-family: 'RWBY Style'; 
 }
 
 #header-title{
@@ -32,7 +31,12 @@
     font-size: 44px;
 }
 
+#header-padding{
+    padding: 14px;
+    background-color: white;
+}
+
 @font-face {
     font-family: 'RWBY Style';
-    src: url('../../rwby-style/rwby_style.ttf');
+    src: url('../../fonts/rwby_style.ttf');
 }
