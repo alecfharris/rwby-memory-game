@@ -17,6 +17,7 @@ img {
     border-width: 0.1ch;
     border-radius: 5px;
     box-shadow: 3px 3px #888888;
+    transform: scale(1);
     cursor: pointer;
     transition: transform .2s;
 }
