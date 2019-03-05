@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/rwby-memory-game/static/js/runtime~main.9fe657d9.js"
   },
   {
-    "revision": "c15d4b1453026767c723",
-    "url": "/rwby-memory-game/static/js/main.c15d4b14.chunk.js"
+    "revision": "a4ea6cc2792ef7026dee",
+    "url": "/rwby-memory-game/static/js/main.a4ea6cc2.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/rwby-memory-game/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "c15d4b1453026767c723",
-    "url": "/rwby-memory-game/static/css/main.6fea9aaa.chunk.css"
+    "revision": "a4ea6cc2792ef7026dee",
+    "url": "/rwby-memory-game/static/css/main.c028b5c7.chunk.css"
   },
   {
-    "revision": "89f6375478202156478cd6e5e9458a51",
+    "revision": "35f8802cddbdaa5d430a4c011fe28121",
     "url": "/rwby-memory-game/index.html"
   }
 ];
