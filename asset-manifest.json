@@ -1,14 +1,14 @@
 {
-  "main.css": "/rwby-memory-game/static/css/main.c028b5c7.chunk.css",
-  "main.js": "/rwby-memory-game/static/js/main.a4ea6cc2.chunk.js",
-  "main.js.map": "/rwby-memory-game/static/js/main.a4ea6cc2.chunk.js.map",
+  "main.css": "/rwby-memory-game/static/css/main.79cb92ec.chunk.css",
+  "main.js": "/rwby-memory-game/static/js/main.0207f267.chunk.js",
+  "main.js.map": "/rwby-memory-game/static/js/main.0207f267.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/rwby-memory-game/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/rwby-memory-game/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/rwby-memory-game/static/js/runtime~main.9fe657d9.js",
   "runtime~main.js.map": "/rwby-memory-game/static/js/runtime~main.9fe657d9.js.map",
   "static/media/style.css": "/rwby-memory-game/static/media/rwby_style.f78a5f02.ttf",
-  "static/css/main.c028b5c7.chunk.css.map": "/rwby-memory-game/static/css/main.c028b5c7.chunk.css.map",
+  "static/css/main.79cb92ec.chunk.css.map": "/rwby-memory-game/static/css/main.79cb92ec.chunk.css.map",
   "index.html": "/rwby-memory-game/index.html",
-  "precache-manifest.250d107e2bf4c83ed26ac6aa25e940f7.js": "/rwby-memory-game/precache-manifest.250d107e2bf4c83ed26ac6aa25e940f7.js",
+  "precache-manifest.329e71ef780b5ee305dd8ca5984c061c.js": "/rwby-memory-game/precache-manifest.329e71ef780b5ee305dd8ca5984c061c.js",
   "service-worker.js": "/rwby-memory-game/service-worker.js"
 }

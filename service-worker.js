@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rwby-memory-game/precache-manifest.250d107e2bf4c83ed26ac6aa25e940f7.js"
+  "/rwby-memory-game/precache-manifest.329e71ef780b5ee305dd8ca5984c061c.js"
 );
 
 workbox.clientsClaim();
