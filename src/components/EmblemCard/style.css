@@ -1,6 +1,6 @@
 .card {
     margin-top: 15%;
-    margin: 20px;
+    margin: 5.5%;
     grid-column-start: auto;
     grid-column-end: auto;
     grid-row-start: auto;
@@ -11,7 +11,7 @@
 img {
     height: auto;
     width: 75%;
-    padding: 15px;
+    padding: 5.5%;
     border: solid;
     border-color: #888888;
     border-width: 0.1ch;
@@ -22,5 +22,5 @@ img {
 }
 
 img:hover{
-    transform: scale(1.25);
+    transform: scale(1.1);
 }
