@@ -5,3 +5,6 @@ RWBY Memory Game is a simple memory game built in React and based on RWBY. The g
 
 ## Deployment
 The RWBY Memory Game is deployed [here](https://alecfharris.github.io/rwby-memory-game/).
+
+## Example Image
+![RWBY Memory Game](https://i.ibb.co/MsR6vz0/RWBY-Memory-Game-Resize-50.png "RWBY Memory Game")
